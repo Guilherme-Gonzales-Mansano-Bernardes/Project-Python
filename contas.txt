@@ -1,0 +1,5 @@
+Tabela de Produto de Loja		
+Produto	Marca	Quantidade
+Camiseta	Nike	10
+Calça	Adidas	20
+Tenis	Umbro	30
